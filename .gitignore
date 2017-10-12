@@ -1,8 +1,9 @@
 # Local folders and files
 .DS_Store
-/static/node_modules
-/static/package-lock.json
-/static/dist
+static/.babelrc
+static/node_modules/**
+static/package-lock.json
+static/dist/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
